@@ -46,7 +46,7 @@ const Footer = () => {
           </li>
         </ul>
         <div className="infoText">
-          Developed with ReactJS. If you liked this project, consider giving the
+          Developed with ReactJS. If you like this project, consider giving the
           git repo a like.
         </div>
         <div className="socialIcons">
