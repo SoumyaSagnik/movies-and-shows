@@ -42,3 +42,11 @@ Sort and Filter option enabled
 <p align='center'><img src="./src/assets/ss9.png" /></p>
 
 All the items are clickable
+
+## Mobile View
+
+Fully Responsive
+
+<p align='center'><img src="./src/assets/ss13.png" /></p>
+<p align='center'><img src="./src/assets/ss14.png" /></p>
+<p align='center'><img src="./src/assets/ss15.png" /></p>
