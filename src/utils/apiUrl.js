@@ -1,0 +1,13 @@
+export const UPCOMING_MOVIES = "/movie/upcoming";
+export const CONFIGURATION = "/configuration";
+export const TRENDING_ALL = "/trending/all/";
+export const GENRE_MOVIE = "/genre/movie/list";
+export const GENRE_TV = "/genre/tv/list";
+export const POPULAR = "/popular";
+export const TOP_RATED = "/top_rated";
+export const VIDEOS = "/videos";
+export const CREDITS = "/credits";
+export const SIMILAR = "/similar";
+export const RECOMMENDATIONS = "/recommendations";
+export const SEARCH_QUERY = "/search/multi?query=";
+export const SEARCH_PAGE = "&page=";

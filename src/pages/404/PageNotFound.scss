@@ -1,0 +1,11 @@
+.pageNotFound {
+  max-width: 100vw;
+  height: 1000px;
+  padding-top: 100px;
+  img {
+    object-fit: contain;
+    object-position: center;
+    width: 100%;
+    height: 100%;
+  }
+}
